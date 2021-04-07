@@ -1,0 +1,11 @@
+{
+  "name": "serverless-ssm-helper",
+  "version": "0.1.0",
+  "description": "Helper to interactively create required ssm variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
