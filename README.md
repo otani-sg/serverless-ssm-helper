@@ -4,7 +4,7 @@
 
 Serverless plugin for making working with SSM parameters in serverless project easier.
 
-+ ALlow deployer to interactively entering parameter values if the parameters don't exist.
++ Allow deployer to interactively entering parameter values if the parameters don't exist.
 + Load parameters from SSM in less API calls by using `getParametersByPath` instead of calling `getParameter` for each parameter.
 
 ## Install
