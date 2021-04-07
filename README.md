@@ -15,4 +15,4 @@ $ sls plugin install -n @otani.sg/serverless-ssm-helper
 
 ## Caveats
 
-Currently this plugin always creates new parameters using SecureString.
+Currently this plugin always creates new parameters in SecureString type.
