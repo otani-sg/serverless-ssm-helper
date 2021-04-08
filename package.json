@@ -8,7 +8,16 @@
   },
   "author": "Otani Trading PTE. LTD.",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otani-sg/serverless-ssm-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/otani-sg/serverless-ssm-helper/issues"
+  },
+  "homepage": "https://github.com/otani-sg/serverless-ssm-helper#readme",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "keywords": ["serverless", "aws"]
 }
