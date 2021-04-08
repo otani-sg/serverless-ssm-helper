@@ -1,5 +1,5 @@
 {
-  "name": "serverless-ssm-helper",
+  "name": "@otani.sg/serverless-ssm-helper",
   "version": "0.1.0",
   "description": "Helper to interactively create required ssm variables",
   "main": "index.js",
