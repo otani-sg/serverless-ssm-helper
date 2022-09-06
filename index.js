@@ -116,7 +116,7 @@ module.exports = class ServerlessSSMHelperPlugin {
         output: process.stdout,
       });
       // Disable variable tracker since we are interactively entering value
-      this.serverless.variables.tracker.stop();
+      this.serverless.variables.tracker?.stop();
 
       // TODO: Show default value if available from template
       rl.question(`Enter value for ${fullPath}: `, (answer) => {
